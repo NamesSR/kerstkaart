@@ -133,4 +133,20 @@ g.stroke();
    circal(430, 470, 12, 0, 2, "blue", false )
    circal(400, 430, 12, 0, 2, "yellow", false )
    
+ 
+    
+  g.moveTo(400,200);
+  g.lineTo(380, 220)
+  g.lineTo(380, 220)
+  g.lineTo(385, 190)
+  g.lineTo(370, 180)
+  g.lineTo(390, 175)
+  g.lineTo(400, 155)
+  g.lineTo(410,175)
+  g.lineTo(430, 180)
+  g.lineTo(415, 190)
+  g.lineTo(420, 220)
+  g.lineTo(400, 200)
+ g.fillStyle = "yellow"
+ g.fill()
   g.stroke();
